@@ -76,7 +76,7 @@ A map chart is used to visualized the number of churned customers and their perc
 <br/>
 <br/>
 <p align="center">
-<img src="https://i.ibb.co/XCvSdPW/3.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<img src="https://i.ibb.co/XkvQ3rw/7.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
 <br />
 <br />
  <p align="left">
@@ -84,7 +84,7 @@ A map chart is used to visualized the number of churned customers and their perc
 <br/>
 <br/>
 <p align="center">
-<img src="https://i.ibb.co/XCvSdPW/3.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<img src="https://i.ibb.co/8j7gM8B/8.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
 <br/>
  It can be seen that the high churn rate in senior customers is mainly derived by the low customer number in this age 
 <br />
@@ -94,7 +94,7 @@ A map chart is used to visualized the number of churned customers and their perc
 <br/>
 <br/>
 <p align="center">
-<img src="https://i.ibb.co/XCvSdPW/3.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<img src="https://i.ibb.co/9hjcMjk/9.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
 <br/>
  The graph shows the monthly subscription customers tend to churn more than other long contract customers
 <br />
@@ -104,7 +104,9 @@ A map chart is used to visualized the number of churned customers and their perc
 <br/>
 <br/>
 <p align="center">
-<img src="https://i.ibb.co/XCvSdPW/3.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<img src="https://i.ibb.co/vvNfC15/11.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<br />
+<img src="https://i.ibb.co/nCHmnNS/10.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
 <br />
 The graph shows that California (state with highest churn rate) also has 72% of people making international calls have no call plan. Those can be potential customers. Also, the churn rate for customers who pay for international plan but don’t call internationally is very high.
 <br />
