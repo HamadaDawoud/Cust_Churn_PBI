@@ -112,11 +112,21 @@ The graph shows that California (state with highest churn rate) also has 72% of 
 <br />
 <br />
 <p align="left">
+To wrap up our findings, a dashboard is created to group our analysis in to three main dimensions. Age groups, Payment & Contract and Extra Charges
+<br/>
+A.	An overview dashboard that summarize the dimensions by which in the analysis was made upon.
+<br/>
+<br/>
+<p align="center">
+<img src="https://i.ibb.co/6vmnPLT/DB1.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<br />
+<br />
+<p align="left">
 B.	Age group dashboard
 <br/>
 <br/>
 <p align="center">
-<img src="https://i.ibb.co/vvNfC15/11.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<img src="https://i.ibb.co/nDdkC00/DB2.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
 <br />
 <br />
 <p align="left">
@@ -124,7 +134,7 @@ C.	Payments & Contract
 <br/>
 <br/>
 <p align="center">
-<img src="https://i.ibb.co/vvNfC15/11.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<img src="https://i.ibb.co/hf7TDnq/DB3.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
 <br />
 <br />
 <p align="left">
@@ -132,7 +142,7 @@ D.	Extra Charge
 <br/>
 <br/>
 <p align="center">
-<img src="https://i.ibb.co/vvNfC15/11.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<img src="https://i.ibb.co/LhLdk3F/DB4.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
 <br />
 <br />
 <p align="left">
@@ -140,7 +150,7 @@ At the end; this dashboard highlits the main findings of our analysis that can h
 <br/>
 <br/>
 <p align="center">
-<img src="https://i.ibb.co/vvNfC15/11.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<img src="https://i.ibb.co/mhMyqR7/DB5.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
 <br />
 <br />
  
