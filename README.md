@@ -111,6 +111,38 @@ A map chart is used to visualized the number of churned customers and their perc
 The graph shows that California (state with highest churn rate) also has 72% of people making international calls have no call plan. Those can be potential customers. Also, the churn rate for customers who pay for international plan but don’t call internationally is very high.
 <br />
 <br />
+<p align="left">
+B.	Age group dashboard
+<br/>
+<br/>
+<p align="center">
+<img src="https://i.ibb.co/vvNfC15/11.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<br />
+<br />
+<p align="left">
+C.	Payments & Contract
+<br/>
+<br/>
+<p align="center">
+<img src="https://i.ibb.co/vvNfC15/11.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<br />
+<br />
+<p align="left">
+D.	Extra Charge   
+<br/>
+<br/>
+<p align="center">
+<img src="https://i.ibb.co/vvNfC15/11.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<br />
+<br />
+<p align="left">
+At the end; this dashboard highlits the main findings of our analysis that can help in making data-informed decisions   
+<br/>
+<br/>
+<p align="center">
+<img src="https://i.ibb.co/vvNfC15/11.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
+<br />
+<br />
  
  
  
