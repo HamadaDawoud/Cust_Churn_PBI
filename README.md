@@ -2,49 +2,46 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The problem we will be working on is customer churn. You'll be using churn dataset from a Telecom provider . our task is to analyze why customers are churning, or in other words, leaving the company.
+
+Defining churn <br />
+A good definition is the one from Investopedia: "The churn rate, also known as the rate of attrition or customer churn, is the rate at which customers stop doing business with an entity." You can compare churn with the leaky bucket problem. You can fill the bucket with more water (or new customers in this case), but your overall revenue won't increase if existing customers are leaving your company. It's easier to retain customers than to attract new customers, so for many companies it's a priority to reduce churn..
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Language / Technolgies Used</h2>
 
 - <b>PowerBI Desktop</b> 
+- <b>DAX Language</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
 
 <h2>Project Steps:</h2>
-
+1.Check data for duplication to ensure each data row reflects a unique customer in the customer table, will create two measures; one to count cust_id and the other to count dist_cust_id.
+ <br/>
+ <br/>
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.ibb.co/vvNfC15/11.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/16g5Jx3/1.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="left">
+2.Create churned column to convert churn status into binomial for the ease of analysis instead of (yes,no) structure using (IF). Then create a measure with the number of churned_customers to find the churn rate. 
+ <br/>
+ <br/>
+<p align="center">
+<img src="https://i.ibb.co/w4KRcY0/2.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="left">
+3.Next a bar chart is created to represented the different reasons that causes customers to churn  
+ <br/>
+ <br/>
+<p align="center">
+<img src="https://i.ibb.co/XCvSdPW/3.jpg" height="80%" width="80%" alt="Analysing Customer Churn"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
 <!--
  ```diff
 - text in red
